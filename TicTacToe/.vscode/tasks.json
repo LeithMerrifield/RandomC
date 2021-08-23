@@ -6,7 +6,7 @@
             "type": "shell",
             "command": "",
             "args": [
-                "make", 
+                "make",
                 "--directory=C:/Users/leith/C++/TicTacToe"
             ],
             "group":  {
