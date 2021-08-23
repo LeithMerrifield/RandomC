@@ -6,10 +6,8 @@
             "type": "shell",
             "command": "",
             "args": [
-                "make",
-                "--directory=${workspaceFolder};",
                 "make", 
-                "--directory=${workspaceFolder}/TicTacToe"
+                "--directory=C:/Users/leith/C++/TicTacToe"
             ],
             "group":  {
                 "kind": "build",
